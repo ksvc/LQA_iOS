@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LQAConfig.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LQAConfig</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setKsyunAppKey:</TokenIdentifier>
+			<Abstract type="html">设置金山云服务的key
+key金山云客户的标示</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *ksyunAppKey</Declaration>
+			
+			
+			<Anchor>//api/name/ksyunAppKey</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/ksyunAppKey</TokenIdentifier>
+			<Abstract type="html">设置金山云服务的key
+key金山云客户的标示</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *ksyunAppKey</Declaration>
+			
+			
+			<Anchor>//api/name/ksyunAppKey</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/ksyunAppKey</TokenIdentifier>
+			<Abstract type="html">设置金山云服务的key
+key金山云客户的标示</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *ksyunAppKey</Declaration>
+			
+			
+			<Anchor>//api/name/ksyunAppKey</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setImInfoAccessToken:</TokenIdentifier>
+			<Abstract type="html">设置IM服务的accessToken，由金山云服务OpenAPI下发</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *imInfoAccessToken</Declaration>
+			
+			
+			<Anchor>//api/name/imInfoAccessToken</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/imInfoAccessToken</TokenIdentifier>
+			<Abstract type="html">设置IM服务的accessToken，由金山云服务OpenAPI下发</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *imInfoAccessToken</Declaration>
+			
+			
+			<Anchor>//api/name/imInfoAccessToken</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/imInfoAccessToken</TokenIdentifier>
+			<Abstract type="html">设置IM服务的accessToken，由金山云服务OpenAPI下发</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *imInfoAccessToken</Declaration>
+			
+			
+			<Anchor>//api/name/imInfoAccessToken</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setImInfoKey:</TokenIdentifier>
+			<Abstract type="html">设置IM服务的key，由金山云服务OpenAPI下发</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *imInfoKey</Declaration>
+			
+			
+			<Anchor>//api/name/imInfoKey</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/imInfoKey</TokenIdentifier>
+			<Abstract type="html">设置IM服务的key，由金山云服务OpenAPI下发</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *imInfoKey</Declaration>
+			
+			
+			<Anchor>//api/name/imInfoKey</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/imInfoKey</TokenIdentifier>
+			<Abstract type="html">设置IM服务的key，由金山云服务OpenAPI下发</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *imInfoKey</Declaration>
+			
+			
+			<Anchor>//api/name/imInfoKey</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setUserId:</TokenIdentifier>
+			<Abstract type="html">设置用户uid，用于标示用户
+uid用户的uid</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *userId</Declaration>
+			
+			
+			<Anchor>//api/name/userId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/userId</TokenIdentifier>
+			<Abstract type="html">设置用户uid，用于标示用户
+uid用户的uid</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *userId</Declaration>
+			
+			
+			<Anchor>//api/name/userId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/userId</TokenIdentifier>
+			<Abstract type="html">设置用户uid，用于标示用户
+uid用户的uid</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *userId</Declaration>
+			
+			
+			<Anchor>//api/name/userId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setChatMessageId:</TokenIdentifier>
+			<Abstract type="html">设置直播答题聊天室的房间ID，由金山云服务OpenAPI下</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *chatMessageId</Declaration>
+			
+			
+			<Anchor>//api/name/chatMessageId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/chatMessageId</TokenIdentifier>
+			<Abstract type="html">设置直播答题聊天室的房间ID，由金山云服务OpenAPI下</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *chatMessageId</Declaration>
+			
+			
+			<Anchor>//api/name/chatMessageId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/chatMessageId</TokenIdentifier>
+			<Abstract type="html">设置直播答题聊天室的房间ID，由金山云服务OpenAPI下</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *chatMessageId</Declaration>
+			
+			
+			<Anchor>//api/name/chatMessageId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setServerUserId:</TokenIdentifier>
+			<Abstract type="html">设置答题发送者的ID，由金山云服务OpenAPI下发
+serverUserId 题目下发者的ID</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *serverUserId</Declaration>
+			
+			
+			<Anchor>//api/name/serverUserId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/serverUserId</TokenIdentifier>
+			<Abstract type="html">设置答题发送者的ID，由金山云服务OpenAPI下发
+serverUserId 题目下发者的ID</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *serverUserId</Declaration>
+			
+			
+			<Anchor>//api/name/serverUserId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/serverUserId</TokenIdentifier>
+			<Abstract type="html">设置答题发送者的ID，由金山云服务OpenAPI下发
+serverUserId 题目下发者的ID</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *serverUserId</Declaration>
+			
+			
+			<Anchor>//api/name/serverUserId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setUserExtraLiveCount:</TokenIdentifier>
+			<Abstract type="html">设置用户所拥有的复活卡数量
+userReviveCardCount 复活卡数量</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSInteger userExtraLiveCount</Declaration>
+			
+			
+			<Anchor>//api/name/userExtraLiveCount</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/userExtraLiveCount</TokenIdentifier>
+			<Abstract type="html">设置用户所拥有的复活卡数量
+userReviveCardCount 复活卡数量</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSInteger userExtraLiveCount</Declaration>
+			
+			
+			<Anchor>//api/name/userExtraLiveCount</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/userExtraLiveCount</TokenIdentifier>
+			<Abstract type="html">设置用户所拥有的复活卡数量
+userReviveCardCount 复活卡数量</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSInteger userExtraLiveCount</Declaration>
+			
+			
+			<Anchor>//api/name/userExtraLiveCount</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setMaxExtraLiveUsedInContest:</TokenIdentifier>
+			<Abstract type="html">设置当前可用复活卡的最大数量
+maxReviveCardUsedInCompetition 可用复活卡的最大数量</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSUInteger maxExtraLiveUsedInContest</Declaration>
+			
+			
+			<Anchor>//api/name/maxExtraLiveUsedInContest</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/maxExtraLiveUsedInContest</TokenIdentifier>
+			<Abstract type="html">设置当前可用复活卡的最大数量
+maxReviveCardUsedInCompetition 可用复活卡的最大数量</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSUInteger maxExtraLiveUsedInContest</Declaration>
+			
+			
+			<Anchor>//api/name/maxExtraLiveUsedInContest</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/maxExtraLiveUsedInContest</TokenIdentifier>
+			<Abstract type="html">设置当前可用复活卡的最大数量
+maxReviveCardUsedInCompetition 可用复活卡的最大数量</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSUInteger maxExtraLiveUsedInContest</Declaration>
+			
+			
+			<Anchor>//api/name/maxExtraLiveUsedInContest</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setContestLiveId:</TokenIdentifier>
+			<Abstract type="html">设置 赛场次ID， 于区分同一户不同场次比赛
+contestLiveId 比赛场次ID</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *contestLiveId</Declaration>
+			
+			
+			<Anchor>//api/name/contestLiveId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/contestLiveId</TokenIdentifier>
+			<Abstract type="html">设置 赛场次ID， 于区分同一户不同场次比赛
+contestLiveId 比赛场次ID</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *contestLiveId</Declaration>
+			
+			
+			<Anchor>//api/name/contestLiveId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/contestLiveId</TokenIdentifier>
+			<Abstract type="html">设置 赛场次ID， 于区分同一户不同场次比赛
+contestLiveId 比赛场次ID</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *contestLiveId</Declaration>
+			
+			
+			<Anchor>//api/name/contestLiveId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setCanJoin:</TokenIdentifier>
+			<Abstract type="html">设置当前 户是否可参与答题环节，默认不可以
+canJoin YES可参与答题</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) BOOL canJoin</Declaration>
+			
+			
+			<Anchor>//api/name/canJoin</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/canJoin</TokenIdentifier>
+			<Abstract type="html">设置当前 户是否可参与答题环节，默认不可以
+canJoin YES可参与答题</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) BOOL canJoin</Declaration>
+			
+			
+			<Anchor>//api/name/canJoin</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/canJoin</TokenIdentifier>
+			<Abstract type="html">设置当前 户是否可参与答题环节，默认不可以
+canJoin YES可参与答题</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) BOOL canJoin</Declaration>
+			
+			
+			<Anchor>//api/name/canJoin</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setMediaPlayer:</TokenIdentifier>
+			<Abstract type="html">设置多媒体播放器
+mediaPlayer KSYMoviePlayerController 对象</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) KSYMoviePlayerController *mediaPlayer</Declaration>
+			
+			
+			<Anchor>//api/name/mediaPlayer</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/mediaPlayer</TokenIdentifier>
+			<Abstract type="html">设置多媒体播放器
+mediaPlayer KSYMoviePlayerController 对象</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) KSYMoviePlayerController *mediaPlayer</Declaration>
+			
+			
+			<Anchor>//api/name/mediaPlayer</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/mediaPlayer</TokenIdentifier>
+			<Abstract type="html">设置多媒体播放器
+mediaPlayer KSYMoviePlayerController 对象</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) KSYMoviePlayerController *mediaPlayer</Declaration>
+			
+			
+			<Anchor>//api/name/mediaPlayer</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/setPlayerUrl:</TokenIdentifier>
+			<Abstract type="html">设置多媒体播放器
+playerUrl  播放器地址</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *playerUrl</Declaration>
+			
+			
+			<Anchor>//api/name/playerUrl</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAConfig/playerUrl</TokenIdentifier>
+			<Abstract type="html">设置多媒体播放器
+playerUrl  播放器地址</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *playerUrl</Declaration>
+			
+			
+			<Anchor>//api/name/playerUrl</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAConfig/playerUrl</TokenIdentifier>
+			<Abstract type="html">设置多媒体播放器
+playerUrl  播放器地址</Abstract>
+			<DeclaredIn>LQAConfig.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *playerUrl</Declaration>
+			
+			
+			<Anchor>//api/name/playerUrl</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LQAClient.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LQAClient</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/setResultListener:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLQAResultListener _Nullable resultListener</Declaration>
+			
+			
+			<Anchor>//api/name/resultListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/resultListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLQAResultListener _Nullable resultListener</Declaration>
+			
+			
+			<Anchor>//api/name/resultListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAClient/resultListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLQAResultListener _Nullable resultListener</Declaration>
+			
+			
+			<Anchor>//api/name/resultListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/setQuestionListener:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnQuestionListener _Nullable questionListener</Declaration>
+			
+			
+			<Anchor>//api/name/questionListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/questionListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnQuestionListener _Nullable questionListener</Declaration>
+			
+			
+			<Anchor>//api/name/questionListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAClient/questionListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnQuestionListener _Nullable questionListener</Declaration>
+			
+			
+			<Anchor>//api/name/questionListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/setChatMessageListener:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLiveChatMessageListener _Nullable chatMessageListener</Declaration>
+			
+			
+			<Anchor>//api/name/chatMessageListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/chatMessageListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLiveChatMessageListener _Nullable chatMessageListener</Declaration>
+			
+			
+			<Anchor>//api/name/chatMessageListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAClient/chatMessageListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLiveChatMessageListener _Nullable chatMessageListener</Declaration>
+			
+			
+			<Anchor>//api/name/chatMessageListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/setUserReviveCardListener:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnUserReviveCardListener _Nullable userReviveCardListener</Declaration>
+			
+			
+			<Anchor>//api/name/userReviveCardListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/userReviveCardListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnUserReviveCardListener _Nullable userReviveCardListener</Declaration>
+			
+			
+			<Anchor>//api/name/userReviveCardListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAClient/userReviveCardListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnUserReviveCardListener _Nullable userReviveCardListener</Declaration>
+			
+			
+			<Anchor>//api/name/userReviveCardListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/setLoserListener:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLoserListener _Nullable loserListener</Declaration>
+			
+			
+			<Anchor>//api/name/loserListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/loserListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLoserListener _Nullable loserListener</Declaration>
+			
+			
+			<Anchor>//api/name/loserListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAClient/loserListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLoserListener _Nullable loserListener</Declaration>
+			
+			
+			<Anchor>//api/name/loserListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/setWinerListener:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnWinerListener _Nullable winerListener</Declaration>
+			
+			
+			<Anchor>//api/name/winerListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/winerListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnWinerListener _Nullable winerListener</Declaration>
+			
+			
+			<Anchor>//api/name/winerListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAClient/winerListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnWinerListener _Nullable winerListener</Declaration>
+			
+			
+			<Anchor>//api/name/winerListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/setStatusListener:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLQAStatusListener _Nullable statusListener</Declaration>
+			
+			
+			<Anchor>//api/name/statusListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/statusListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLQAStatusListener _Nullable statusListener</Declaration>
+			
+			
+			<Anchor>//api/name/statusListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAClient/statusListener</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) OnLQAStatusListener _Nullable statusListener</Declaration>
+			
+			
+			<Anchor>//api/name/statusListener</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/init</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (instancetype _Nullable)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/LQAClient/new</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>+ (instancetype _Nullable)new</Declaration>
+			
+			
+			<Anchor>//api/name/new</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/LQAClient/getVersion</TokenIdentifier>
+			<Abstract type="html">获取版本号</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>+ (NSString *_Nullable)getVersion</Declaration>
+			
+			<ReturnValue><Abstract type="html">返回NSString类型的字符串</Abstract></ReturnValue>
+			<Anchor>//api/name/getVersion</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/openLog:</TokenIdentifier>
+			<Abstract type="html">是否开启日志功能
+Yes 开启功能 ，No 关闭  默认关闭</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (void)openLog:(BOOL)isOpen</Declaration>
+			
+			
+			<Anchor>//api/name/openLog:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/initWithConfig:success:</TokenIdentifier>
+			<Abstract type="html">初始化唯一的方法</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (instancetype _Nullable)initWithConfig:(LQAConfig *_Nullable)config success:(successBlock_t _Nullable)successBlock</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>config</Name>
+					<Abstract type="html">sdk需要的必要信息</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithConfig:success:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/lqaRelease</TokenIdentifier>
+			<Abstract type="html">释放资源</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (void)lqaRelease</Declaration>
+			
+			
+			<Anchor>//api/name/lqaRelease</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/getUsedReviveCardCount</TokenIdentifier>
+			<Abstract type="html">获取该用户在比赛中使用了的复活卡数量</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (NSInteger)getUsedReviveCardCount</Declaration>
+			
+			<ReturnValue><Abstract type="html">使用了的复活卡数量</Abstract></ReturnValue>
+			<Anchor>//api/name/getUsedReviveCardCount</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/isFromFirstAnswering</TokenIdentifier>
+			<Abstract type="html">该接口主要区分中途进入的用户的状态</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (BOOL)isFromFirstAnswering</Declaration>
+			
+			<ReturnValue><Abstract type="html">YES从第一题开始答题  NO 不是从第一题开始答题</Abstract></ReturnValue>
+			<Anchor>//api/name/isFromFirstAnswering</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/joinRoomWith:success:failure:</TokenIdentifier>
+			<Abstract type="html">加入聊天室</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (void)joinRoomWith:(NSString *_Nullable)roomId success:(void ( ^ _Nullable ) ( void ))success failure:(void ( ^ _Nullable ) ( RCErrorCode errorCode ))failure</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>roomId</Name>
+					<Abstract type="html">聊天室id</Abstract>
+				</Parameter><Parameter>
+					<Name>success</Name>
+					<Abstract type="html">成功回调</Abstract>
+				</Parameter><Parameter>
+					<Name>failure</Name>
+					<Abstract type="html">失败回调</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/joinRoomWith:success:failure:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/sendLiveChatMessage:success:failure:</TokenIdentifier>
+			<Abstract type="html">发送消息</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (void)sendLiveChatMessage:(NSString *_Nullable)message success:(void ( ^ _Nullable ) ( long messageId ))successBlock failure:(void ( ^ _Nullable ) ( RCErrorCode failureCode , long messageId ))failureBlock</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>message</Name>
+					<Abstract type="html">消息内容</Abstract>
+				</Parameter><Parameter>
+					<Name>successBlock</Name>
+					<Abstract type="html">成功回调</Abstract>
+				</Parameter><Parameter>
+					<Name>failureBlock</Name>
+					<Abstract type="html">失败回调</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/sendLiveChatMessage:success:failure:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAClient/answer:signalingTimestamp:requestSignaling:success:failure:</TokenIdentifier>
+			<Abstract type="html">提交答案</Abstract>
+			<DeclaredIn>LQAClient.h</DeclaredIn>
+			
+			<Declaration>- (void)answer:(NSString *_Nullable)answer signalingTimestamp:(NSString *_Nullable)signalingTimestamp requestSignaling:(NSString *_Nullable)requestSignaling success:(void ( ^ _Nullable ) ( id _Nullable model ))success failure:(void ( ^ _Nullable ) ( NSError *_Nullable error ))failure</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>answer</Name>
+					<Abstract type="html">提交答案@&quot;A&quot;....</Abstract>
+				</Parameter><Parameter>
+					<Name>signalingTimestamp</Name>
+					<Abstract type="html">计算请求信令的时间戳，毫秒，由AppServer颁发。（仅当启用了请求信令功能时有效，有效时间窗口需要通过技术支持进行配置）</Abstract>
+				</Parameter><Parameter>
+					<Name>requestSignaling</Name>
+					<Abstract type="html">请求信令，由AppServer根据服务端Token、AppKey、UID、Timestamp计算md5得出，形如 md5({Token}\n{Appkey}\n{UID}\n{Timestamp})。（仅当启用了请求信令功能时有效，有效时间窗口需要通过技术支持进行配置）</Abstract>
+				</Parameter><Parameter>
+					<Name>success</Name>
+					<Abstract type="html">成功回调 答对答错都会走</Abstract>
+				</Parameter><Parameter>
+					<Name>failure</Name>
+					<Abstract type="html">服务内部错误，网络错误等回调，NSError里面有对应错误的信息</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/answer:signalingTimestamp:requestSignaling:success:failure:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

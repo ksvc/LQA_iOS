@@ -1,0 +1,12 @@
+stages:
+  - build
+
+build_app:
+  stage: build
+  script:
+    - cd LQADemo
+    - pod install
+    - xcodebuild -workspace *.xcwork* -scheme LQADemo -sdk iphoneos -quiet
+    - xcodebuild -workspace *.xcwork* -scheme LQADemo -sdk iphonesimulator -quiet
+  tags:
+    - ios

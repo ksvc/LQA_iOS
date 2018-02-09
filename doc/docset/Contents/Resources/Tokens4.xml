@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LQAGroupEntity.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LQAGroupEntity</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+            
+			
+			<NodeRef refid="4"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAGroupEntity/setOption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *option</Declaration>
+			
+			
+			<Anchor>//api/name/option</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAGroupEntity/option</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *option</Declaration>
+			
+			
+			<Anchor>//api/name/option</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAGroupEntity/option</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *option</Declaration>
+			
+			
+			<Anchor>//api/name/option</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAGroupEntity/setCount:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *count</Declaration>
+			
+			
+			<Anchor>//api/name/count</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAGroupEntity/count</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *count</Declaration>
+			
+			
+			<Anchor>//api/name/count</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAGroupEntity/count</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *count</Declaration>
+			
+			
+			<Anchor>//api/name/count</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

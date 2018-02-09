@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LQAEntity.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LQAEntity</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+            
+			
+			<NodeRef refid="3"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setId:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *id</Declaration>
+			
+			
+			<Anchor>//api/name/id</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/id</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *id</Declaration>
+			
+			
+			<Anchor>//api/name/id</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/id</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *id</Declaration>
+			
+			
+			<Anchor>//api/name/id</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setType:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *type</Declaration>
+			
+			
+			<Anchor>//api/name/type</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/type</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *type</Declaration>
+			
+			
+			<Anchor>//api/name/type</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/type</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *type</Declaration>
+			
+			
+			<Anchor>//api/name/type</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setOrder:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *order</Declaration>
+			
+			
+			<Anchor>//api/name/order</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/order</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *order</Declaration>
+			
+			
+			<Anchor>//api/name/order</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/order</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *order</Declaration>
+			
+			
+			<Anchor>//api/name/order</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setTotalNumber:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *totalNumber</Declaration>
+			
+			
+			<Anchor>//api/name/totalNumber</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/totalNumber</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *totalNumber</Declaration>
+			
+			
+			<Anchor>//api/name/totalNumber</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/totalNumber</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *totalNumber</Declaration>
+			
+			
+			<Anchor>//api/name/totalNumber</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setCorrectOption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *correctOption</Declaration>
+			
+			
+			<Anchor>//api/name/correctOption</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/correctOption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *correctOption</Declaration>
+			
+			
+			<Anchor>//api/name/correctOption</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/correctOption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *correctOption</Declaration>
+			
+			
+			<Anchor>//api/name/correctOption</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setTitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/title</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/title</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setShowPeriod:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *showPeriod</Declaration>
+			
+			
+			<Anchor>//api/name/showPeriod</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/showPeriod</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *showPeriod</Declaration>
+			
+			
+			<Anchor>//api/name/showPeriod</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/showPeriod</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *showPeriod</Declaration>
+			
+			
+			<Anchor>//api/name/showPeriod</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setCashPrizes:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *cashPrizes</Declaration>
+			
+			
+			<Anchor>//api/name/cashPrizes</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/cashPrizes</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *cashPrizes</Declaration>
+			
+			
+			<Anchor>//api/name/cashPrizes</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/cashPrizes</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *cashPrizes</Declaration>
+			
+			
+			<Anchor>//api/name/cashPrizes</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setLogo:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *logo</Declaration>
+			
+			
+			<Anchor>//api/name/logo</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/logo</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *logo</Declaration>
+			
+			
+			<Anchor>//api/name/logo</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/logo</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *logo</Declaration>
+			
+			
+			<Anchor>//api/name/logo</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setOptions:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *options</Declaration>
+			
+			
+			<Anchor>//api/name/options</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/options</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *options</Declaration>
+			
+			
+			<Anchor>//api/name/options</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/options</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *options</Declaration>
+			
+			
+			<Anchor>//api/name/options</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setGroup:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *group</Declaration>
+			
+			
+			<Anchor>//api/name/group</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/group</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *group</Declaration>
+			
+			
+			<Anchor>//api/name/group</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/group</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *group</Declaration>
+			
+			
+			<Anchor>//api/name/group</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setUids:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *uids</Declaration>
+			
+			
+			<Anchor>//api/name/uids</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/uids</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *uids</Declaration>
+			
+			
+			<Anchor>//api/name/uids</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/uids</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *uids</Declaration>
+			
+			
+			<Anchor>//api/name/uids</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setErrorOption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *errorOption</Declaration>
+			
+			
+			<Anchor>//api/name/errorOption</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/errorOption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *errorOption</Declaration>
+			
+			
+			<Anchor>//api/name/errorOption</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/errorOption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *errorOption</Declaration>
+			
+			
+			<Anchor>//api/name/errorOption</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setShowTimestamp:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *showTimestamp</Declaration>
+			
+			
+			<Anchor>//api/name/showTimestamp</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/showTimestamp</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *showTimestamp</Declaration>
+			
+			
+			<Anchor>//api/name/showTimestamp</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/showTimestamp</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *showTimestamp</Declaration>
+			
+			
+			<Anchor>//api/name/showTimestamp</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setAllowDelayTime:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *allowDelayTime</Declaration>
+			
+			
+			<Anchor>//api/name/allowDelayTime</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/allowDelayTime</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *allowDelayTime</Declaration>
+			
+			
+			<Anchor>//api/name/allowDelayTime</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/allowDelayTime</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *allowDelayTime</Declaration>
+			
+			
+			<Anchor>//api/name/allowDelayTime</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/setUserStatusAnswer:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) LQAUserStatusAnswer userStatusAnswer</Declaration>
+			
+			
+			<Anchor>//api/name/userStatusAnswer</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/userStatusAnswer</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) LQAUserStatusAnswer userStatusAnswer</Declaration>
+			
+			
+			<Anchor>//api/name/userStatusAnswer</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAEntity/userStatusAnswer</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) LQAUserStatusAnswer userStatusAnswer</Declaration>
+			
+			
+			<Anchor>//api/name/userStatusAnswer</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/getResultEntity</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>- (NSArray&lt;LQAGroupEntity*&gt; *)getResultEntity</Declaration>
+			
+			
+			<Anchor>//api/name/getResultEntity</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAEntity/totlePerson</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>- (NSInteger)totlePerson</Declaration>
+			
+			
+			<Anchor>//api/name/totlePerson</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

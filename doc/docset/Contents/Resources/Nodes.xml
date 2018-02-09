@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+    <TOC>
+        <Node type="folder">
+            <Name>LQASDK</Name>
+            <Path>index.html</Path>
+			<Subnodes>
+                
+				
+				<Node type="folder">
+					<Name>Classes</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="1"/>
+						<NodeRef refid="2"/>
+						<NodeRef refid="3"/>
+						<NodeRef refid="4"/>
+						<NodeRef refid="5"/>
+						
+					</Subnodes>
+				</Node>
+				
+				
+                
+                
+                
+                <Node>
+                    <Name>Blocks</Name>
+                    <Path>index.html</Path>
+                    <Subnodes>
+                        <NodeRef refid="6"/>
+                        <NodeRef refid="7"/>
+                        <NodeRef refid="8"/>
+                        <NodeRef refid="9"/>
+                        <NodeRef refid="10"/>
+                        <NodeRef refid="11"/>
+                        <NodeRef refid="12"/>
+                        <NodeRef refid="13"/>
+                        <NodeRef refid="14"/>
+                        
+                    </Subnodes>
+                </Node>
+                
+			</Subnodes>
+        </Node>
+    </TOC>
+	<Library>
+		
+		<Node id="1" type="file" documentType="reference">
+            <Name>LQAClient</Name>
+            <Path>Classes/LQAClient.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/LQAClient.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/LQAClient.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/LQAClient.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                <Node type="section">
+                    <Path>Classes/LQAClient.html</Path>
+                    <Name>Class Methods</Name>
+                    <Anchor>class_methods</Anchor>
+                </Node>
+                
+                
+                <Node type="section">
+                    <Path>Classes/LQAClient.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="2" type="file" documentType="reference">
+            <Name>LQAConfig</Name>
+            <Path>Classes/LQAConfig.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/LQAConfig.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/LQAConfig.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/LQAConfig.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="3" type="file" documentType="reference">
+            <Name>LQAEntity</Name>
+            <Path>Classes/LQAEntity.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/LQAEntity.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/LQAEntity.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/LQAEntity.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/LQAEntity.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="4" type="file" documentType="reference">
+            <Name>LQAGroupEntity</Name>
+            <Path>Classes/LQAGroupEntity.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/LQAGroupEntity.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/LQAGroupEntity.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/LQAGroupEntity.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="5" type="file" documentType="reference">
+            <Name>LQAOptionsEntity</Name>
+            <Path>Classes/LQAOptionsEntity.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/LQAOptionsEntity.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/LQAOptionsEntity.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/LQAOptionsEntity.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+            </Subnodes>
+            
+        </Node>
+		
+		
+        
+        
+        <Node id="6" type="file" documentType="reference">
+            <Name>OnLQAResultListener</Name>
+            <Path>Blocks/OnLQAResultListener.html</Path>
+            
+        </Node>
+        <Node id="7" type="file" documentType="reference">
+            <Name>OnLQAStatusListener</Name>
+            <Path>Blocks/OnLQAStatusListener.html</Path>
+            
+        </Node>
+        <Node id="8" type="file" documentType="reference">
+            <Name>OnLiveChatMessageListener</Name>
+            <Path>Blocks/OnLiveChatMessageListener.html</Path>
+            
+        </Node>
+        <Node id="9" type="file" documentType="reference">
+            <Name>OnLoserListener</Name>
+            <Path>Blocks/OnLoserListener.html</Path>
+            
+        </Node>
+        <Node id="10" type="file" documentType="reference">
+            <Name>OnQuestionListener</Name>
+            <Path>Blocks/OnQuestionListener.html</Path>
+            
+        </Node>
+        <Node id="11" type="file" documentType="reference">
+            <Name>OnUserReviveCardListener</Name>
+            <Path>Blocks/OnUserReviveCardListener.html</Path>
+            
+        </Node>
+        <Node id="12" type="file" documentType="reference">
+            <Name>OnWinerListener</Name>
+            <Path>Blocks/OnWinerListener.html</Path>
+            
+        </Node>
+        <Node id="13" type="file" documentType="reference">
+            <Name>failBlock_t</Name>
+            <Path>Blocks/failBlock_t.html</Path>
+            
+        </Node>
+        <Node id="14" type="file" documentType="reference">
+            <Name>successBlock_t</Name>
+            <Path>Blocks/successBlock_t.html</Path>
+            
+        </Node>
+        
+	</Library>
+</DocSetNodes>

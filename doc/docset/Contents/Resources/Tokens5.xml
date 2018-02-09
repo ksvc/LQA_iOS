@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LQAOptionsEntity.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LQAOptionsEntity</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+            
+			
+			<NodeRef refid="5"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAOptionsEntity/setOption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *option</Declaration>
+			
+			
+			<Anchor>//api/name/option</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAOptionsEntity/option</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *option</Declaration>
+			
+			
+			<Anchor>//api/name/option</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAOptionsEntity/option</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *option</Declaration>
+			
+			
+			<Anchor>//api/name/option</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAOptionsEntity/setText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LQAOptionsEntity/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LQAOptionsEntity/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LQAEntity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<title>LQAClient Class Reference</title>
+
+	<link rel="stylesheet" href="../css/style.css">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1.4">
+	<meta name="generator" content="appledoc 2.2.1 (build 1334)">
+</head>
+<body class="appledoc">
+	<header>
+		<div class="container" class="hide-in-xcode">
+			
+			<h1 id="library-title">
+				<a href="../index.html">LQASDK </a>
+			</h1>
+
+			<p id="developer-home">
+				<a href="../index.html">Kingsoft</a>
+			</p>
+			
+		</div>
+	</header>
+
+	<aside>
+		<div class="container">
+			<nav>
+				<ul id="header-buttons" role="toolbar">
+					<li><a href="../index.html">Index</a></li>
+<li><a href="../hierarchy.html">Hierarchy</a></li>
+
+					<li id="on-this-page" role="navigation">
+						<label>
+							On This Page
+
+							<div class="chevron">
+								<div class="chevy chevron-left"></div>
+								<div class="chevy chevron-right"></div>
+							</div>
+
+							<select id="jump-to">
+	<option value="top">Jump To&#133;</option>
+	
+
+	
+	
+	<option value="tasks">Tasks</option>
+	
+	
+
+	
+	
+	<optgroup label="Properties">
+		
+		<option value="//api/name/chatMessageListener">chatMessageListener</option>
+		
+		<option value="//api/name/loserListener">loserListener</option>
+		
+		<option value="//api/name/questionListener">questionListener</option>
+		
+		<option value="//api/name/resultListener">resultListener</option>
+		
+		<option value="//api/name/statusListener">statusListener</option>
+		
+		<option value="//api/name/userReviveCardListener">userReviveCardListener</option>
+		
+		<option value="//api/name/winerListener">winerListener</option>
+		
+	</optgroup>
+	
+
+	
+	<optgroup label="Class Methods">
+		
+		<option value="//api/name/getVersion">+ getVersion</option>
+		
+		<option value="//api/name/new">+ new</option>
+		
+	</optgroup>
+	
+
+	
+	<optgroup label="Instance Methods">
+		
+		<option value="//api/name/answer:signalingTimestamp:requestSignaling:success:failure:">- answer:signalingTimestamp:requestSignaling:success:failure:</option>
+		
+		<option value="//api/name/getUsedReviveCardCount">- getUsedReviveCardCount</option>
+		
+		<option value="//api/name/init">- init</option>
+		
+		<option value="//api/name/initWithConfig:success:">- initWithConfig:success:</option>
+		
+		<option value="//api/name/isFromFirstAnswering">- isFromFirstAnswering</option>
+		
+		<option value="//api/name/joinRoomWith:success:failure:">- joinRoomWith:success:failure:</option>
+		
+		<option value="//api/name/lqaRelease">- lqaRelease</option>
+		
+		<option value="//api/name/openLog:">- openLog:</option>
+		
+		<option value="//api/name/sendLiveChatMessage:success:failure:">- sendLiveChatMessage:success:failure:</option>
+		
+	</optgroup>
+	
+	
+</select>
+						</label>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</aside>
+
+	<article>
+		<div id="overview_contents" class="container">
+			<div id="content">
+				<main role="main">
+					<h1 class="title">LQAClient Class Reference</h1>
+
+					
+					<div class="section section-specification"><table cellspacing="0"><tbody>
+						<tr>
+	<th>Inherits from</th>
+	<td>NSObject</td>
+</tr><tr>
+	<th>Declared in</th>
+	<td>LQAClient.h</td>
+</tr>
+						</tbody></table></div>
+					
+
+                    
+
+					
+					
+					<div class="section section-tasks">
+						<a title="Tasks" name="tasks"></a>
+						
+
+						
+						
+
+						<div class="task-list">
+							<div class="section-method">
+	<a name="//api/name/resultListener" title="resultListener"></a>
+	<h3 class="method-title"><code><a href="#//api/name/resultListener">&nbsp;&nbsp;resultListener</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>@property (nonatomic, copy) OnLQAResultListener _Nullable resultListener</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/questionListener" title="questionListener"></a>
+	<h3 class="method-title"><code><a href="#//api/name/questionListener">&nbsp;&nbsp;questionListener</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>@property (nonatomic, copy) OnQuestionListener _Nullable questionListener</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/chatMessageListener" title="chatMessageListener"></a>
+	<h3 class="method-title"><code><a href="#//api/name/chatMessageListener">&nbsp;&nbsp;chatMessageListener</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>@property (nonatomic, copy) OnLiveChatMessageListener _Nullable chatMessageListener</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/userReviveCardListener" title="userReviveCardListener"></a>
+	<h3 class="method-title"><code><a href="#//api/name/userReviveCardListener">&nbsp;&nbsp;userReviveCardListener</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>@property (nonatomic, copy) OnUserReviveCardListener _Nullable userReviveCardListener</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/loserListener" title="loserListener"></a>
+	<h3 class="method-title"><code><a href="#//api/name/loserListener">&nbsp;&nbsp;loserListener</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>@property (nonatomic, copy) OnLoserListener _Nullable loserListener</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/winerListener" title="winerListener"></a>
+	<h3 class="method-title"><code><a href="#//api/name/winerListener">&nbsp;&nbsp;winerListener</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>@property (nonatomic, copy) OnWinerListener _Nullable winerListener</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/statusListener" title="statusListener"></a>
+	<h3 class="method-title"><code><a href="#//api/name/statusListener">&nbsp;&nbsp;statusListener</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>@property (nonatomic, copy) OnLQAStatusListener _Nullable statusListener</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/init" title="init"></a>
+	<h3 class="method-title"><code><a href="#//api/name/init">&ndash;&nbsp;init</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>- (instancetype _Nullable)init</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/new" title="new"></a>
+	<h3 class="method-title"><code><a href="#//api/name/new">+&nbsp;new</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+
+			<div class="method-subsection method-declaration"><code>+ (instancetype _Nullable)new</code></div>
+
+		    
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/getVersion" title="getVersion"></a>
+	<h3 class="method-title"><code><a href="#//api/name/getVersion">+&nbsp;getVersion</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>获取版本号</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>+ (NSString *_Nullable)getVersion</code></div>
+
+		    
+			
+
+			
+			<div class="method-subsection return">
+				<h4 class="method-subtitle parameter-title">Return Value</h4>
+				<p>返回NSString类型的字符串</p>
+			</div>
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/openLog:" title="openLog:"></a>
+	<h3 class="method-title"><code><a href="#//api/name/openLog:">&ndash;&nbsp;openLog:</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>是否开启日志功能
+Yes 开启功能 ，No 关闭  默认关闭</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (void)openLog:(BOOL)<em>isOpen</em></code></div>
+
+		    
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/initWithConfig:success:" title="initWithConfig:success:"></a>
+	<h3 class="method-title"><code><a href="#//api/name/initWithConfig:success:">&ndash;&nbsp;initWithConfig:success:</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>初始化唯一的方法</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (instancetype _Nullable)initWithConfig:(LQAConfig *_Nullable)<em>config</em> success:(successBlock_t _Nullable)<em>successBlock</em></code></div>
+
+		    
+			
+			<div class="method-subsection arguments-section parameters">
+				<h4 class="method-subtitle parameter-title">Parameters</h4>
+				<table class="argument-def parameter-def">
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>config</code></th>
+						<td><p>sdk需要的必要信息</p></td>
+					</tr>
+				
+				</table>
+			</div>
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/lqaRelease" title="lqaRelease"></a>
+	<h3 class="method-title"><code><a href="#//api/name/lqaRelease">&ndash;&nbsp;lqaRelease</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>释放资源</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (void)lqaRelease</code></div>
+
+		    
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/getUsedReviveCardCount" title="getUsedReviveCardCount"></a>
+	<h3 class="method-title"><code><a href="#//api/name/getUsedReviveCardCount">&ndash;&nbsp;getUsedReviveCardCount</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>获取该用户在比赛中使用了的复活卡数量</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (NSInteger)getUsedReviveCardCount</code></div>
+
+		    
+			
+
+			
+			<div class="method-subsection return">
+				<h4 class="method-subtitle parameter-title">Return Value</h4>
+				<p>使用了的复活卡数量</p>
+			</div>
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/isFromFirstAnswering" title="isFromFirstAnswering"></a>
+	<h3 class="method-title"><code><a href="#//api/name/isFromFirstAnswering">&ndash;&nbsp;isFromFirstAnswering</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>该接口主要区分中途进入的用户的状态</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (BOOL)isFromFirstAnswering</code></div>
+
+		    
+			
+
+			
+			<div class="method-subsection return">
+				<h4 class="method-subtitle parameter-title">Return Value</h4>
+				<p>YES从第一题开始答题  NO 不是从第一题开始答题</p>
+			</div>
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/joinRoomWith:success:failure:" title="joinRoomWith:success:failure:"></a>
+	<h3 class="method-title"><code><a href="#//api/name/joinRoomWith:success:failure:">&ndash;&nbsp;joinRoomWith:success:failure:</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>加入聊天室</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (void)joinRoomWith:(NSString *_Nullable)<em>roomId</em> success:(void ( ^ _Nullable ) ( void ))<em>success</em> failure:(void ( ^ _Nullable ) ( RCErrorCode errorCode ))<em>failure</em></code></div>
+
+		    
+			
+			<div class="method-subsection arguments-section parameters">
+				<h4 class="method-subtitle parameter-title">Parameters</h4>
+				<table class="argument-def parameter-def">
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>roomId</code></th>
+						<td><p>聊天室id</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>success</code></th>
+						<td><p>成功回调</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>failure</code></th>
+						<td><p>失败回调</p></td>
+					</tr>
+				
+				</table>
+			</div>
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/sendLiveChatMessage:success:failure:" title="sendLiveChatMessage:success:failure:"></a>
+	<h3 class="method-title"><code><a href="#//api/name/sendLiveChatMessage:success:failure:">&ndash;&nbsp;sendLiveChatMessage:success:failure:</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>发送消息</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (void)sendLiveChatMessage:(NSString *_Nullable)<em>message</em> success:(void ( ^ _Nullable ) ( long messageId ))<em>successBlock</em> failure:(void ( ^ _Nullable ) ( RCErrorCode failureCode , long messageId ))<em>failureBlock</em></code></div>
+
+		    
+			
+			<div class="method-subsection arguments-section parameters">
+				<h4 class="method-subtitle parameter-title">Parameters</h4>
+				<table class="argument-def parameter-def">
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>message</code></th>
+						<td><p>消息内容</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>successBlock</code></th>
+						<td><p>成功回调</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>failureBlock</code></th>
+						<td><p>失败回调</p></td>
+					</tr>
+				
+				</table>
+			</div>
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div><div class="section-method">
+	<a name="//api/name/answer:signalingTimestamp:requestSignaling:success:failure:" title="answer:signalingTimestamp:requestSignaling:success:failure:"></a>
+	<h3 class="method-title"><code><a href="#//api/name/answer:signalingTimestamp:requestSignaling:success:failure:">&ndash;&nbsp;answer:signalingTimestamp:requestSignaling:success:failure:</a></code>
+</h3>
+
+	<div class="method-info">
+		<div class="pointy-thing"></div>
+
+		<div class="method-info-container">
+			
+			
+			<div class="method-subsection brief-description">
+				<p>提交答案</p>
+			</div>
+			
+		    
+
+			<div class="method-subsection method-declaration"><code>- (void)answer:(NSString *_Nullable)<em>answer</em> signalingTimestamp:(NSString *_Nullable)<em>signalingTimestamp</em> requestSignaling:(NSString *_Nullable)<em>requestSignaling</em> success:(void ( ^ _Nullable ) ( id _Nullable model ))<em>success</em> failure:(void ( ^ _Nullable ) ( NSError *_Nullable error ))<em>failure</em></code></div>
+
+		    
+			
+			<div class="method-subsection arguments-section parameters">
+				<h4 class="method-subtitle parameter-title">Parameters</h4>
+				<table class="argument-def parameter-def">
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>answer</code></th>
+						<td><p>提交答案@&ldquo;A&rdquo;&hellip;.</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>signalingTimestamp</code></th>
+						<td><p>计算请求信令的时间戳，毫秒，由AppServer颁发。（仅当启用了请求信令功能时有效，有效时间窗口需要通过技术支持进行配置）</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>requestSignaling</code></th>
+						<td><p>请求信令，由AppServer根据服务端Token、AppKey、UID、Timestamp计算md5得出，形如 md5({Token}\n{Appkey}\n{UID}\n{Timestamp})。（仅当启用了请求信令功能时有效，有效时间窗口需要通过技术支持进行配置）</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>success</code></th>
+						<td><p>成功回调 答对答错都会走</p></td>
+					</tr>
+				
+					<tr>
+						<th scope="row" class="argument-name"><code>failure</code></th>
+						<td><p>服务内部错误，网络错误等回调，NSError里面有对应错误的信息</p></td>
+					</tr>
+				
+				</table>
+			</div>
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+			<div class="method-subsection declared-in-section">
+				<h4 class="method-subtitle">Declared In</h4>
+				<p><code class="declared-in-ref">LQAClient.h</code></p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div>
+						</div>
+						
+					</div>
+					
+					
+
+                    
+                    
+          
+				</main>
+
+				<footer>
+					<div class="footer-copyright">
+						
+						<p class="copyright">Copyright &copy; 2018 Kingsoft. All rights reserved. </p>
+						
+						
+						<p class="generator">Generated by <a href="http://appledoc.gentlebytes.com">appledoc 2.2.1 (build 1334)</a>.</p>
+						
+					</div>
+				</footer>
+			</div>
+		</div>
+	</article>
+
+	<script src="../js/script.js"></script>
+</body>
+</html>
