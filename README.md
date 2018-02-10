@@ -1,6 +1,10 @@
 # 直播问答
 ## 1 简述
 直播问答SDK，提供拉流、接收题目下发、自定义聊天评论。
+
+
+![](https://raw.githubusercontent.com/wiki/ksvc/LQA_iOS/images/sdk_role.png)
+
 ## 2 接入流程
 ### 2.1 环境要求
 * 支持iOS8.0以上。
