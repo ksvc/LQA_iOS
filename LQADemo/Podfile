@@ -2,9 +2,7 @@ platform :ios, '8.0'
 
 target 'LQADemo' do
     
-  #pod 'LQASDK',:path => './'
-  #debug
-  pod 'LQASDK',:path => '../../LQA-iOS/LQASDK'
+  pod 'LQASDK',:path => './'
   pod 'Masonry'
   pod 'KSYMediaPlayer_iOS','~>3.0.1'
   
