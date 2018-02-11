@@ -9,15 +9,8 @@
 ### 2.1 环境要求
 * 支持iOS8.0以上。
 * 支持bitcode。
-* 支持架构：arm64,arm7v,i386,x86_64。
-### 2.2 动态库(解决IJK编译报错)
-* 去掉podfile 对KSYMediaPlayer_iOS的依赖。
-* 去掉LQASDK.podspec  对KSYMediaPlayer_iOS的依赖。
-* KSYMediaPlayer_iOS 动态库下载地址:
-https://github.com/ksvc/KSYMediaPlayer_iOS 版本号为>3.0.1。
-把动态库放到libs目录下面。
-执行pod insall。
-### 2.3 运行
+* 支持架构：arm64,arm7v,i386,x86_64。。
+### 2.2 运行
 * demo找到podfile,执行pod install。
 ## 3 注意事项
 * 注意推流端设备与题目下发设备时间的统一性。
