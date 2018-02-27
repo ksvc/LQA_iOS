@@ -115,6 +115,7 @@
     }];
     
     [self addListenClient];
+    [_client openLog:YES];
 }
 
 
